@@ -1,0 +1,11 @@
+PyAudio==0.2.14
+python-dotenv==1.1.1
+SpeechRecognition==3.14.3
+typing_extensions==4.14.0
+openai==1.93.0
+PyAutoGUI==0.9.54
+pillow==11.2.1
+tavily-python==0.7.8
+psutil==7.0.0
+pyautogui==0.9.54
+elevenlabs==2.5.0
